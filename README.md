@@ -1,4 +1,4 @@
-![Bloom Theme](https://github.com/BrainStation-23/shopify-grocery-theme/blob/develop/doc_assets/shopify%20theme%20header.png)
+![Bloom Theme](https://github.com/BrainStation-23/shopify-themes/blob/main/doc_assets/shopify%20theme%20header.png)
 
 # Bloom
 
@@ -26,13 +26,13 @@ Bloom features smooth animations that help to create a seamless and engaging sho
 
 Bloom's customizable headers allow you to create a unique and engaging header for your store. You can choose from a range of header styles, add your logo, customize the navigation menu, and more. The theme also features a mobile-friendly header that ensures your store looks great on all devices.
 
-![Bloom Theme](https://github.com/BrainStation-23/shopify-grocery-theme/blob/main/doc_assets/headerMobile.png)
+![Bloom Theme](https://github.com/BrainStation-23/shopify-themes/blob/main/doc_assets/headerMobile.png)
 
 #### Responsive Design
 
 Bloom is fully responsive, which means it looks great on all devices, including desktops, tablets, and smartphones. The theme automatically adjusts the layout and design to ensure your store looks its best on any device.
 
-![Bloom Theme](https://github.com/BrainStation-23/shopify-grocery-theme/blob/main/doc_assets/mobile.png)
+![Bloom Theme](https://github.com/BrainStation-23/shopify-themes/blob/main/doc_assets/mobile.png)
 
 #### Search
 
@@ -62,13 +62,13 @@ Bloom includes over 20 custom sections that you can use to create unique and eng
 
 Bloom features a customizable media grid that allows you to showcase your products in a visually engaging way. You can choose from a range of grid styles and customize the appearance of the grid to suit your brand.
 
-![Bloom Theme](https://github.com/BrainStation-23/shopify-grocery-theme/blob/main/doc_assets/blogs.png)
+![Bloom Theme](https://github.com/BrainStation-23/shopify-themes/blob/main/doc_assets/blogs.png)
 
 #### Gift Cards and Gift Wrapping
 
 Enabling gift card purchases and gift wrapping options on Bloom could help merchants to boost their sales during holiday seasons and special occasions. Customers could purchase gift cards for their friends and family, and the theme could provide a gift wrapping option at checkout to make the gift-giving experience more convenient.
 
-![Bloom Theme](https://github.com/BrainStation-23/shopify-grocery-theme/blob/main/doc_assets/gift.png)
+![Bloom Theme](https://github.com/BrainStation-23/shopify-themes/blob/main/doc_assets/gift.png)
 
 #### Multi-Language Support
 
